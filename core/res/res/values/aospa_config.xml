@@ -102,6 +102,9 @@
       -->
     </string-array>
 
+     <!-- Boost Framework -->
+    <bool name="config_supportsBoostFramework">false</bool>
+
     <!-- Build fingerprint from stock ROM -->
     <string name="config_stockFingerprint" translatable="false"></string>
 
